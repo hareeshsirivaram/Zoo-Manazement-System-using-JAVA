@@ -44,25 +44,25 @@ The Zoo Management System allows a user to:
 
 1. **Start Application**  
    The `Main` class runs and displays the main menu:  
-  1. Tiger
+   Tiger
 
-  2. Dolphin
+   Dolphin
 
-  3. Penguin
+   Penguin
 
-  4. Save animals to file
+   Save animals to file
 
-  5. Display saved animals from file
+   Display saved animals from file
 
 2. **Choose an Animal**  
 Example: choosing “Tiger” creates a `Tiger` object and opens a sub-menu:  
-1. Set properties
+Set properties
 
-2. Display properties
+Display properties
 
-3. Display movement
+Display movement
 
-4. Display eating
+Display eating
 
 3. **Perform Actions**  
 - Set properties → user enters attributes (like stripes, speed)  
